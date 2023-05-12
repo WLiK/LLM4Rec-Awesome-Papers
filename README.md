@@ -4,6 +4,8 @@ An index of large language model (LLM) for recommendation systems.
 
 ***The related work and projects will be updated soon and continuously.***
 
+
+
 # Table of Contents
 
 - [The papers and related projects](#The-papers-and-related-projects)
@@ -12,9 +14,11 @@ An index of large language model (LLM) for recommendation systems.
   - [Related Survey](#Related-Survey)
 - [Single card (RTX 3090) debuggable generative language models that support Chinese corpus](#Single-card-(RTX-3090)-debuggable-generative-language-models-that-support-Chinese-corpus)
 
+
+
 ## The papers and related projects
 
-#### No Tuning
+### No Tuning
 
 Note: The tuning here only indicates whether the LLM model has been tuned.
 
@@ -29,7 +33,9 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 |          | [Sileo, D., Vossen, W., & Raymaekers, R. (2022, April). Zero-Shot Recommendation as Language Modeling. In *Advances in Information Retrieval: 44th European Conference on IR Research, ECIR 2022.*.](https://arxiv.org/pdf/2112.04184) | ECIR      | 2022     | [Python](https://colab.research.google.com/drive/1f1mlZ-FGaLGdo5rPzxf3vemKllbh2esT?usp=sharing) | GPT-2                 |
 | UniCRS   | [Wang, X., Zhou, K., Wen, J. R., & Zhao, W. X. (2022, August). Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning. In *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (pp. 1929-1937).](https://arxiv.org/pdf/2206.09363) | KDD       | 2022     | [Python](https://github.com/RUCAIBox/UniCRS)                 | GPT-2/ DialoGPT /BART |
 
-#### Supervised Fine-Tuning
+
+
+### Supervised Fine-Tuning
 
 | **Name** | **Paper**                                                    | **Venue**        | **Year** | **Code**                                                     | LLM      |
 | -------- | ------------------------------------------------------------ | ---------------- | -------- | ------------------------------------------------------------ | -------- |
@@ -39,13 +45,17 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | M6-Rec   | [Cui, Z., Ma, J., Zhou, C., Zhou, J., & Yang, H. (2022). M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems. *arXiv preprint arXiv:2205.08084*.](https://arxiv.org/pdf/2205.08084) | arxiv            | 2022     | NA                                                           | M6       |
 |          | [Zhang, Y., Ding, H., Shui, Z., Ma, Y., Zou, J., Deoras, A., & Wang, H. (2021). Language models as recommender systems: Evaluations and limitations.](https://openreview.net/pdf?id=hFx3fY7-m9b) | NeurIPS workshop | 2021     | NA                                                           | GPT-2    |
 
-#### Related Survey
+
+
+### Related Survey
 
 | **Paper**                                                    | **Venue** | **Year** |
 | ------------------------------------------------------------ | --------- | -------- |
 | [Liu, P., Zhang, L., & Gulla, J. A. (2023). Pre-train, prompt and recommendation: A comprehensive survey of language modelling paradigm adaptations in recommender systems. *arXiv preprint arXiv:2302.03735*.](https://arxiv.org/pdf/2302.03735) | arxiv     | 2023     |
 
-#### Single card (RTX 3090) debuggable generative language models that support Chinese corpus
+
+
+### Single card (RTX 3090) debuggable generative language models that support Chinese corpus
 
 Some open-source and effective projects can be adpated to the recommendation systems based on Chinese textual data. Especially for the individual researchers !
 
