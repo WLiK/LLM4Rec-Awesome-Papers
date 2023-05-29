@@ -2,6 +2,8 @@
 
 An index of large language model (LLM) for recommendation systems.
 
+***News: Our LLM4Rec survey will be released soon.***
+
 ***The related work and projects will be updated soon and continuously.***
 
 
