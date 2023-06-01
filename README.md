@@ -3,7 +3,7 @@
 An index of large language model (LLM) for recommendation systems.
 
 🎉 ***News: Our LLM4Rec survey has been released.***
-[A Survey on Large Language Models for Recommendation](LLM4Rec_Survey.pdf)
+[A Survey on Large Language Models for Recommendation](https://arxiv.org/abs/2305.19860)
 
 ***The related work and projects will be updated soon and continuously.***
 
