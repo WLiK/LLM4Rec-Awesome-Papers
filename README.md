@@ -38,6 +38,9 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 |    N/A   | [Sileo, D., Vossen, W., & Raymaekers, R. (2022, April). Zero-Shot Recommendation as Language Modeling. In *Advances in Information Retrieval: 44th European Conference on IR Research, ECIR 2022.*.](https://arxiv.org/pdf/2112.04184) | ECIR      | 2022     | [Python](https://colab.research.google.com/drive/1f1mlZ-FGaLGdo5rPzxf3vemKllbh2esT?usp=sharing) | GPT-2                 |
 | UniCRS   | [Wang, X., Zhou, K., Wen, J. R., & Zhao, W. X. (2022, August). Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning. In *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (pp. 1929-1937).](https://arxiv.org/pdf/2206.09363) | KDD       | 2022     | [Python](https://github.com/RUCAIBox/UniCRS)                 | GPT-2/ DialoGPT /BART |
 |   GENRE  | [Liu, Q., Chen, N., Sakai, T., & Wu, X. M. (2023). A First Look at LLM-Powered Generative News Recommendation. *arXiv preprint arXiv:2305.06566*.](https://arxiv.org/pdf/2305.06566) | arxiv     | 2023     | [Python](https://github.com/Jyonn/GENRE-requests)                | ChatGPT            |
+| RecLLM | [Friedman L, Ahuja S, Allen D, et al. Leveraging Large Language Models in Conversational Recommender Systems[J]. arXiv preprint arXiv:2305.07961, 2023.](https://arxiv.org/pdf/2305.07961.pdf) | arxiv | 2023 | N/A | LaMDA(video) |
+| iEvaLM | [Wang X, Tang X, Zhao W X, et al. Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models[J]. arXiv preprint arXiv:2305.13112, 2023.]() | arxiv | 2023 | [Python](https://github.com/rucaibox/ievalm-crs) | ChatGPT |
+|          |                                                              |           |          |                                                              |                       |
 
 
 
@@ -52,6 +55,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | P5       | [Geng, S., Liu, S., Fu, Z., Ge, Y., & Zhang, Y. (2022, September). Recommendation as language processing (rlp): A unified pretrain, personalized prompt & predict paradigm (p5). In *Proceedings of the 16th ACM Conference on Recommender Systems* (pp. 299-315).](https://arxiv.org/pdf/2203.13366.pdf) | RecSys           | 2022     | [Python](https://github.com/jeykigung/P5)                    | T5       |
 | M6-Rec   | [Cui, Z., Ma, J., Zhou, C., Zhou, J., & Yang, H. (2022). M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems. *arXiv preprint arXiv:2205.08084*.](https://arxiv.org/pdf/2205.08084) | arxiv            | 2022     | N/A                                                           | M6       |
 |    N/A   | [Zhang, Y., Ding, H., Shui, Z., Ma, Y., Zou, J., Deoras, A., & Wang, H. (2021). Language models as recommender systems: Evaluations and limitations.](https://openreview.net/pdf?id=hFx3fY7-m9b) | NeurIPS workshop | 2021     | N/A                                                           | BERT/GPT-2    |
+| PALR | [Chen Z. PALR: Personalization Aware LLMs for Recommendation[J]. arXiv preprint arXiv:2305.07622, 2023.](https://arxiv.org/pdf/2305.07622.pdf) | arxiv | 2023 | N/A | LLaMa |
 
 
 
