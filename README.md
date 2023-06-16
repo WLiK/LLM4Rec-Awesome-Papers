@@ -51,6 +51,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
 | **Name** | **Paper**                                                    | **Venue**        | **Year** | **Code**                                                     | LLM      |
 | -------- | ------------------------------------------------------------ | ---------------- | -------- | ------------------------------------------------------------ | -------- |
+| CTRL | [Li X, Chen B, Hou L, et al. CTRL: Connect Tabular and Language Model for CTR Prediction[J]. arXiv preprint arXiv:2306.02841, 2023.](Li X, Chen B, Hou L, et al. CTRL: Connect Tabular and Language Model for CTR Prediction[J]. arXiv preprint arXiv:2306.02841, 2023.) | arxiv | 2023 | N/A | P5(T5-based) |
 | N/A | [Li, R., Deng, W., Cheng, Y., Yuan, Z., Zhang, J., & Yuan, F. (2023). Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights. arXiv preprint arXiv:2305.11700.](https://arxiv.org/pdf/2305.11700)| arxiv |2023 |N/A|OPT|
 | PALR | [Chen, Z. (2023). PALR: Personalization Aware LLMs for Recommendation. arXiv preprint arXiv:2305.07622.](https://arxiv.org/pdf/2305.07622) | arxiv | 2023 | N/A | LLaMa |
 | InstructRec  | [Zhang, J., Xie, R., Hou, Y., Zhao, W. X., Lin, L., & Wen, J. R. (2023). Recommendation as instruction following: A large language model empowered recommendation approach. arXiv preprint arXiv:2305.07001.](https://arxiv.org/pdf/2305.07001) | arxiv            | 2023     | N/A | FLAN-T5-3B |
@@ -79,7 +80,8 @@ Some open-source and effective projects can be adpated to the recommendation sys
 
 | Project                                                      | Year |
 | ------------------------------------------------------------ | ---- |
-| [YuLan-chat](https://github.com/RUC-GSAI/YuLan-Chat)  | 2023 |
+| [baichuan-7B](https://huggingface.co/baichuan-inc/baichuan-7B) | 2023 |
+| [YuLan-chat](https://github.com/RUC-GSAI/YuLan-Chat)         | 2023 |
 | [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | 2023 |
 | [THUDM](https://github.com/THUDM)/**[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)** | 2023 |
 | [FreedomIntelligence](https://github.com/FreedomIntelligence)/**[LLMZoo](https://github.com/FreedomIntelligence/LLMZoo)** **Phoenix** | 2023 |
