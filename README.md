@@ -16,7 +16,7 @@ An index of large language model (LLM) for recommendation systems.
   - [Supervised Fine-Tuning](#Supervised-Fine-Tuning)
   - [Related Survey](#Related-Survey)
 - [Single card (RTX 3090) debuggable generative language models that support Chinese corpus](#Single-card-(RTX-3090)-debuggable-generative-language-models-that-support-Chinese-corpus)
-
+- [Citation](#Citation)
 
 
 ## The papers and related projects
@@ -92,3 +92,27 @@ Some open-source and effective projects can be adpated to the recommendation sys
 | [LianjiaTech](https://github.com/LianjiaTech)/**[BELLE](https://github.com/LianjiaTech/BELLE)** | 2023 |
 
 Hope our conclusion can help your work.
+
+<br/>
+
+### Citation
+```
+@article{llm4recsurvey,
+  author       = {Likang Wu and
+                  Zhi Zheng and
+                  Zhaopeng Qiu and
+                  Hao Wang and
+                  Hongchao Gu and
+                  Tingjia Shen and
+                  Chuan Qin and
+                  Chen Zhu and
+                  Hengshu Zhu and
+                  Qi Liu and
+                  Hui Xiong and
+                  Enhong Chen},
+  title        = {A Survey on Large Language Models for Recommendation},
+  journal      = {CoRR},
+  volume       = {abs/2305.19860},
+  year         = {2023}
+}
+```
