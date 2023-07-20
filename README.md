@@ -55,6 +55,8 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
 | **Name** | **Paper**                                                    | **Venue**        | **Year** | **Code**                                                     | LLM      |
 | -------- | ------------------------------------------------------------ | ---------------- | -------- | ------------------------------------------------------------ | -------- |
+| GLRec   |  [Wu, L., Qiu, Z., Zheng, Z., Zhu, H., & Chen, E. (2023). Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations.](https://arxiv.org/abs/2307.05722) | arxiv | 2023 | N/A |  N/A|
+| GIRL   |  [Zheng, Z., Qiu, Z., Hu, X., Wu, L., Zhu, H., & Xiong, H. (2023). Generative Job Recommendations with Large Language Model.](https://arxiv.org/abs/2307.02157) | arxiv | 2023 | N/A |  N/A|
 | PBNR   |  [Li, X., Zhang, Y., & Malthouse, E. C. (2023). PBNR: Prompt-based News Recommender System. arXiv preprint arXiv:2304.07862.](https://arxiv.org/abs/2304.07862) | arxiv | 2023 | N/A |  T5|
 |  GPTRec |  [Petrov, A. V., & Macdonald, C. (2023). Generative Sequential Recommendation with GPTRec. arXiv preprint arXiv:2306.11114.](https://arxiv.org/abs/2306.11114) | Gen-IR@SIGIR | 2023 |  N/A | GPT-2 |
 | CTRL | [Li X, Chen B, Hou L, et al. CTRL: Connect Tabular and Language Model for CTR Prediction[J]. arXiv preprint arXiv:2306.02841, 2023.](https://arxiv.org/abs/2306.02841) | arxiv | 2023 | N/A | P5(T5-based) |
