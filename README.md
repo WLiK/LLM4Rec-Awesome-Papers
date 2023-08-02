@@ -126,6 +126,7 @@ Hope our conclusion can help your work.
 
 <br/>
 
+If our work has been of assistance to you, please feel free to cite our survey. Thank you.
 ### Citation
 ```
 @article{llm4recsurvey,
