@@ -15,6 +15,7 @@ An index of large language model (LLM) for recommendation systems.
   - [No Tuning](#No-Tuning)
   - [Supervised Fine-Tuning](#Supervised-Fine-Tuning)
   - [Related Survey](#Related-Survey)
+  - [Common Datasets](#Common-Datasets)
 - [Single card (RTX 3090) debuggable generative language models that support Chinese corpus](#Single-card-(RTX-3090)-debuggable-generative-language-models-that-support-Chinese-corpus)
 - [Citation](#Citation)
 
@@ -58,6 +59,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | -------- | ------------------------------------------------------------ | ---------------- | -------- | ------------------------------------------------------------ | -------- |
 | GLRec   |  [Wu, L., Qiu, Z., Zheng, Z., Zhu, H., & Chen, E. (2023). Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations.](https://arxiv.org/abs/2307.05722) | arxiv | 2023 | N/A |  N/A|
 | GIRL   |  [Zheng, Z., Qiu, Z., Hu, X., Wu, L., Zhu, H., & Xiong, H. (2023). Generative Job Recommendations with Large Language Model.](https://arxiv.org/abs/2307.02157) | arxiv | 2023 | N/A |  N/A|
+| Amazon-M2 |  [Jin, Wei et al. Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation. ArXiv abs/2307.09688 (2023)](https://arxiv.org/pdf/2307.09688.pdf)| arxiv | 2023 | [Project](https://kddcup23.github.io/) |  mT5|
 | GenRec   |  [Ji, J., Li, Z., Xu, S., Hua, W., Ge, Y., Tan, J., & Zhang, Y. (2023). GenRec: Large Language Model for Generative Recommendation. arXiv e-prints, arXiv-2307.](https://arxiv.org/pdf/2307.00457.pdf)| arxiv | 2023 | [Python](https://github.com/rutgerswiselab/GenRec) |  LLaMA|
 | PBNR   |  [Li, X., Zhang, Y., & Malthouse, E. C. (2023). PBNR: Prompt-based News Recommender System. arXiv preprint arXiv:2304.07862.](https://arxiv.org/abs/2304.07862) | arxiv | 2023 | N/A |  T5|
 |  GPTRec |  [Petrov, A. V., & Macdonald, C. (2023). Generative Sequential Recommendation with GPTRec. arXiv preprint arXiv:2306.11114.](https://arxiv.org/abs/2306.11114) | Gen-IR@SIGIR | 2023 |  N/A | GPT-2 |
@@ -89,6 +91,20 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 |[Li, X., Zhang, Y., & Malthouse, E. C. (2023). A Preliminary Study of ChatGPT on News Recommendation: Personalization, Provider Fairness, Fake News. arXiv preprint arXiv:2306.10702.](https://arxiv.org/abs/2306.10702)| arxiv | 2023 |
 |[Lin, J., Dai, X., Xi, Y., Liu, W., Chen, B., Li, X., ... & Zhang, W. (2023). How Can Recommender Systems Benefit from Large Language Models: A Survey. arXiv preprint arXiv:2306.05817.](https://arxiv.org/abs/2306.05817)| arxiv| 2023 |
 | [Liu, P., Zhang, L., & Gulla, J. A. (2023). Pre-train, prompt and recommendation: A comprehensive survey of language modelling paradigm adaptations in recommender systems. *arXiv preprint arXiv:2302.03735*.](https://arxiv.org/pdf/2302.03735) | arxiv     | 2023     |
+
+
+### Common Datasets
+
+| Name           | Scene         | Tasks        | Information                                                                                                           | URL                                                   |
+|----------------|---------------|--------------|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| Amazon Review  | Commerce      | Seq Rec/CF Rec | This is a large crawl of product reviews from Amazon. Ratings: 82.83 million, Users: 20.98 million, Items: 9.35 million, Timespan: May 1996 - July 2014 | [link](http://jmcauley.ucsd.edu/data/amazon/)        |
+| Amazon-M2      | Commerce      | Seq Rec/CF Rec | A large dataset of anonymized user sessions with their interacted products collected from multiple language sources at Amazon. It includes 3,606,249 train sessions, 361,659 test sessions, and 1,410,675 products. | [link](https://arxiv.org/abs/2307.09688)             |
+| Steam          | Game          | Seq Rec/CF Rec | Reviews represent a great opportunity to break down the satisfaction and dissatisfaction factors around games. Reviews: 7,793,069, Users: 2,567,538, Items: 15,474, Bundles: 615 | [link](https://cseweb.ucsd.edu/~jmcauley/datasets.html#steam_data) |
+| MovieLens      | Movie         | General       | The dataset consists of 4 sub-datasets, which describe users' ratings to movies and free-text tagging activities from MovieLens, a movie recommendation service. | [link](https://grouplens.org/datasets/movielens/)    |
+| Yelp           | Commerce      | General       | There are 6,990,280 reviews, 150,346 businesses, 200,100 pictures, 11 metropolitan areas, 908,915 tips by 1,987,897 users. Over 1.2 million business attributes like hours, parking, availability, etc. | [link](https://www.yelp.com/dataset)                 |
+| Douban         | Movie, Music, Book | Seq Rec/CF Rec | This dataset includes three domains, i.e., movie, music, and book, and different kinds of raw information, i.e., ratings, reviews, item details, user profiles, tags (labels), and date. | [link](https://paperswithcode.com/dataset/douban)    |
+| MIND           | News          | General       | MIND contains about 160k English news articles and more than 15 million impression logs generated by 1 million users. Every news contains textual content including title, abstract, body, category, and entities. | [link](https://msnews.github.io/assets/doc/ACL2020_MIND.pdf) |
+| U-NEED         | Commerce      | Conversation Rec | U-NEED consists of 7,698 fine-grained annotated pre-sales dialogues, 333,879 user behaviors, and 332,148 product knowledge tuples. | [link](https://github.com/LeeeeoLiu/U-NEED)          |
 
 
 
