@@ -57,8 +57,10 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
 | **Name** | **Paper**                                                    | **Venue**        | **Year** | **Code**                                                     | LLM      |
 | -------- | ------------------------------------------------------------ | ---------------- | -------- | ------------------------------------------------------------ | -------- |
-| GLRec   |  [Wu, L., Qiu, Z., Zheng, Z., Zhu, H., & Chen, E. (2023). Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations.](https://arxiv.org/abs/2307.05722) | arxiv | 2023 | N/A |  N/A|
-| GIRL   |  [Zheng, Z., Qiu, Z., Hu, X., Wu, L., Zhu, H., & Xiong, H. (2023). Generative Job Recommendations with Large Language Model.](https://arxiv.org/abs/2307.02157) | arxiv | 2023 | N/A |  N/A|
+| BIGRec |  [A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems](https://arxiv.org/abs/2308.08434) | arxiv | 2023 | [Python](https://github.com/SAI990323/Grounding4Rec) |  LLaMA|
+| LLMCRS |  [Feng, Yue, et al. A Large Language Model Enhanced Conversational Recommender System. arXiv preprint arXiv:2308.06212 (2023).](https://arxiv.org/abs/2308.06212) | arxiv | 2023 | N/A |  Flan-T5/LLaMA|
+| GLRec   |  [Wu, L., Qiu, Z., Zheng, Z., Zhu, H., & Chen, E. (2023). Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations.](https://arxiv.org/abs/2307.05722) | arxiv | 2023 | N/A |  BELLE|
+| GIRL   |  [Zheng, Z., Qiu, Z., Hu, X., Wu, L., Zhu, H., & Xiong, H. (2023). Generative Job Recommendations with Large Language Model.](https://arxiv.org/abs/2307.02157) | arxiv | 2023 | N/A |  BELLE|
 | Amazon-M2 |  [Jin, Wei et al. Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation. ArXiv abs/2307.09688 (2023)](https://arxiv.org/pdf/2307.09688.pdf)| arxiv | 2023 | [Project](https://kddcup23.github.io/) |  mT5|
 | GenRec   |  [Ji, J., Li, Z., Xu, S., Hua, W., Ge, Y., Tan, J., & Zhang, Y. (2023). GenRec: Large Language Model for Generative Recommendation. arXiv e-prints, arXiv-2307.](https://arxiv.org/pdf/2307.00457.pdf)| arxiv | 2023 | [Python](https://github.com/rutgerswiselab/GenRec) |  LLaMA|
 | RecLLM | [Friedman, L., Ahuja, S., Allen, D., Tan, T., Sidahmed, H., Long, C., ... & Tiwari, M. (2023). Leveraging Large Language Models in Conversational Recommender Systems. arXiv preprint arXiv:2305.07961.](https://arxiv.org/pdf/2305.07961) | arxiv | 2023 | N/A | LaMDA(video) |
