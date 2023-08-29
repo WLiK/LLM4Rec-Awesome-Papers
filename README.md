@@ -10,18 +10,7 @@ An index of large language model (LLM) for recommendation systems.
 If our work has been of assistance to you, please feel free to cite our survey. Thank you.
 ```
 @article{llm4recsurvey,
-  author       = {Likang Wu and
-                  Zhi Zheng and
-                  Zhaopeng Qiu and
-                  Hao Wang and
-                  Hongchao Gu and
-                  Tingjia Shen and
-                  Chuan Qin and
-                  Chen Zhu and
-                  Hengshu Zhu and
-                  Qi Liu and
-                  Hui Xiong and
-                  Enhong Chen},
+  author       = {Likang Wu and Zhi Zheng and Zhaopeng Qiu and Hao Wang and Hongchao Gu and Tingjia Shen and Chuan Qin and Chen Zhu and Hengshu Zhu and Qi Liu and Hui Xiong and Enhong Chen},
   title        = {A Survey on Large Language Models for Recommendation},
   journal      = {CoRR},
   volume       = {abs/2305.19860},
