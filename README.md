@@ -1,6 +1,6 @@
 # LLM for Recommendation Systems
 
-An index of large language model (LLM) for recommendation systems.
+A list of awesome papers and resources of recommender system on large language model (LLM).
 
 🎉 ***News: Our LLM4Rec survey has been released.***
 [A Survey on Large Language Models for Recommendation](https://arxiv.org/abs/2305.19860)
