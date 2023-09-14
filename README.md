@@ -43,6 +43,8 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | N/A | [Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging](https://arxiv.org/abs/2309.01026) | arxiv | 2023 | N/A | BLIP-2+GPT4 |
 | InteRecAgent | [Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations](https://arxiv.org/abs/2308.16505) | arxiv | 2023 | N/A | GPT4 |
 | GPT4SM | [Peng, Wenjun, et al. "Are GPT Embeddings Useful for Ads and Recommendation?." International Conference on Knowledge Science, Engineering and Management. Cham: Springer Nature Switzerland, 2023.](https://link.springer.com/chapter/10.1007/978-3-031-40292-0_13) | KSEM | 2023 | [Python](https://github.com/Wenjun-Peng/GPT4SM) | GPT |
+| LLMRG  | [Wang, Y., Chu, Z., Ouyang, X., Wang, S., Hao, H., Shen, Y., ... & Li, S. (2023). Enhancing Recommender Systems with Large Language Model Reasoning Graphs. arXiv preprint arXiv:2308.10835.](https://arxiv.org/abs/2308.10835) | arxiv | 2023 | N/A | GPT-3.5/GPT4|
+| RAH | [Shu, Y., Gu, H., Zhang, P., Zhang, H., Lu, T., Li, D., & Gu, N. (2023). RAH! RecSys-Assistant-Human: A Human-Central Recommendation Framework with Large Language Models. arXiv preprint arXiv:2308.09904.](https://arxiv.org/abs/2308.09904) | arxiv | 2023 | N/A | GPT4| 
 | LLM-Rec | [Lyu, Hanjia, et al. "LLM-Rec: Personalized Recommendation via Prompting Large Language Models." arXiv preprint arXiv:2307.15780 (2023).](https://arxiv.org/pdf/2307.15780.pdf) | arxiv | 2023 | N/A | GPT-3 |
 | N/A | [Sanner, S., Balog, K., Radlinski, F., Wedin, B., & Dixon, L. (2023). Large Language Models are Competitive Near Cold-start Recommenders for Language-and Item-based Preferences. arXiv preprint arXiv:2307.14225.](https://arxiv.org/abs/2307.14225) | RecSys | 2023 | N/A | PaLM |
 | MINT | [Mysore S, McCallum A, Zamani H. Large Language Model Augmented Narrative Driven Recommendations[J]. arXiv preprint arXiv:2306.02250, 2023.](https://arxiv.org/abs/2306.02250) | arxiv | 2023 | N/A | 175B InstructGPT |
@@ -71,6 +73,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
 | **Name** | **Paper**                                                    | **Venue**        | **Year** | **Code**                                                     | LLM      |
 | -------- | ------------------------------------------------------------ | ---------------- | -------- | ------------------------------------------------------------ | -------- |
+| RecSysLLM | [Chu, Z., Hao, H., Ouyang, X., Wang, S., Wang, Y., Shen, Y., ... & Li, S. (2023). Leveraging Large Language Models for Pre-trained Recommender Systems. arXiv preprint arXiv:2308.10837.](https://arxiv.org/abs/2308.10837) | arxiv | 2023 | N/A|GLM-10B|
 | BIGRec |  [A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems](https://arxiv.org/abs/2308.08434) | arxiv | 2023 | [Python](https://github.com/SAI990323/Grounding4Rec) |  LLaMA|
 | LLMCRS |  [Feng, Yue, et al. A Large Language Model Enhanced Conversational Recommender System. arXiv preprint arXiv:2308.06212 (2023).](https://arxiv.org/abs/2308.06212) | arxiv | 2023 | N/A |  Flan-T5/LLaMA|
 | GLRec   |  [Wu, L., Qiu, Z., Zheng, Z., Zhu, H., & Chen, E. (2023). Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations.](https://arxiv.org/abs/2307.05722) | arxiv | 2023 | N/A |  BELLE|
@@ -106,7 +109,11 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
 | **Paper**                                                    | **Venue** | **Year** |
 | ------------------------------------------------------------ | --------- | -------- |
+| [Zhang, K., Cao, Q., Sun, F., Wu, Y., Tao, S., Shen, H., & Cheng, X. (2023). Robust Recommender System: A Survey and Future Directions. arXiv preprint arXiv:2309.02057.](https://arxiv.org/abs/2309.02057) | arxiv | 2023 |
 | [Li, L., Zhang, Y., Liu, D., & Chen, L. (2023). Large Language Models for Generative Recommendation: A Survey and Visionary Discussions. *ArXiv*. /abs/2309.01157](https://arxiv.org/abs/2309.01157) | arxiv | 2023 |
+| [Chen, X., Li, Z., Pan, W., & Ming, Z. (2023). A Survey on Multi-Behavior Sequential Recommendation. arXiv preprint arXiv:2308.15701.](https://arxiv.org/abs/2308.15701) | arxiv | 2023 |
+| [Chen, J., Liu, Z., Huang, X., Wu, C., Liu, Q., Jiang, G., ... & Chen, E. (2023). When large language models meet personalization: Perspectives of challenges and opportunities. arXiv preprint arXiv:2307.16376.](https://arxiv.org/abs/2307.16376) | arxiv | 2023 |
+| [Fan, W., Zhao, Z., Li, J., Liu, Y., Mei, X., Wang, Y., ... & Li, Q. (2023). Recommender systems in the era of large language models (llms). arXiv preprint arXiv:2307.02046.](https://arxiv.org/abs/2307.02046) | arxiv | 2023 |
 |[Li, X., Zhang, Y., & Malthouse, E. C. (2023). A Preliminary Study of ChatGPT on News Recommendation: Personalization, Provider Fairness, Fake News. arXiv preprint arXiv:2306.10702.](https://arxiv.org/abs/2306.10702)| arxiv | 2023 |
 |[Lin, J., Dai, X., Xi, Y., Liu, W., Chen, B., Li, X., ... & Zhang, W. (2023). How Can Recommender Systems Benefit from Large Language Models: A Survey. arXiv preprint arXiv:2306.05817.](https://arxiv.org/abs/2306.05817)| arxiv| 2023 |
 | [Liu, P., Zhang, L., & Gulla, J. A. (2023). Pre-train, prompt and recommendation: A comprehensive survey of language modelling paradigm adaptations in recommender systems. *arXiv preprint arXiv:2302.03735*.](https://arxiv.org/pdf/2302.03735) | arxiv     | 2023     |
