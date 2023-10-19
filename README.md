@@ -40,6 +40,8 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
 > | **Name** | **Paper**                                                    | **Venue** | **Year** | **Code**                                                     | LLM                   |
 > | -------- | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ | --------------------- |
+> | N/A | [He Z, Xie Z, Jha R, et al. Large language models as zero-shot conversational recommenders[J]. arXiv preprint arXiv:2308.10053, 2023.](https://arxiv.org/abs/2308.10053) | CIKM | 2023 | [Python](https://github.com/aaronheee/llms-as-zero-shot-conversational-recsys) | GPT-3.5-turbo ,GPT-4,BAIZE,Vicuna |
+> | Agent4Rec | [Zhang A, Sheng L, Chen Y, et al. On Generative Agents in Recommendation[J]. arXiv preprint arXiv:2310.10108, 2023.](https://arxiv.org/pdf/2310.10108.pdf) | arxiv | 2023 | [Python](https://github.com/LehengTHU/Agent4Rec) | GPT4 |
 > | N/A | [Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging](https://arxiv.org/abs/2309.01026) | arxiv | 2023 | N/A | BLIP-2+GPT4 |
 > | InteRecAgent | [Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations](https://arxiv.org/abs/2308.16505) | arxiv | 2023 | N/A | GPT4 |
 > | GPT4SM | [Peng, Wenjun, et al. "Are GPT Embeddings Useful for Ads and Recommendation?." International Conference on Knowledge Science, Engineering and Management. Cham: Springer Nature Switzerland, 2023.](https://link.springer.com/chapter/10.1007/978-3-031-40292-0_13) | KSEM | 2023 | [Python](https://github.com/Wenjun-Peng/GPT4SM) | GPT |
@@ -74,7 +76,8 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
 | **Name** | **Paper**                                                    | **Venue**        | **Year** | **Code**                                                     | LLM      |
 | -------- | ------------------------------------------------------------ | ---------------- | -------- | ------------------------------------------------------------ | -------- |
-| RecSysLLM | [Chu, Z., Hao, H., Ouyang, X., Wang, S., Wang, Y., Shen, Y., ... & Li, S. (2023). Leveraging Large Language Models for Pre-trained Recommender Systems. arXiv preprint arXiv:2308.10837.](https://arxiv.org/abs/2308.10837) | arxiv | 2023 | N/A|GLM-10B|
+| TransRec | [Lin X, Wang W, Li Y, et al. A Multi-facet Paradigm to Bridge Large Language Model and Recommendation[J]. arXiv preprint arXiv:2310.06491, 2023.](https://arxiv.org/abs/2310.06491) | arxiv | 2023 | N/A | BART-large and LLaMA-7B |
+| RecSysLLM | [Chu, Z., Hao, H., Ouyang, X., Wang, S., Wang, Y., Shen, Y., ... & Li, S. (2023). Leveraging Large Language Models for Pre-trained Recommender Systems. arXiv preprint arXiv:2308.10837.](https://arxiv.org/abs/2308.10837) | arxiv | 2023 | N/A |GLM-10B|
 | BIGRec |  [A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems](https://arxiv.org/abs/2308.08434) | arxiv | 2023 | [Python](https://github.com/SAI990323/Grounding4Rec) |  LLaMA|
 | LLMCRS |  [Feng, Yue, et al. A Large Language Model Enhanced Conversational Recommender System. arXiv preprint arXiv:2308.06212 (2023).](https://arxiv.org/abs/2308.06212) | arxiv | 2023 | N/A |  Flan-T5/LLaMA|
 | GLRec   |  [Wu, L., Qiu, Z., Zheng, Z., Zhu, H., & Chen, E. (2023). Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations.](https://arxiv.org/abs/2307.05722) | arxiv | 2023 | N/A |  BELLE|
