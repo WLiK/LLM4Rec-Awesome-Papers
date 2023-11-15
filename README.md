@@ -78,6 +78,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
 | **Name** | **Paper**                                                    | **Venue**        | **Year** | **Code**                                                     | LLM      |
 | -------- | ------------------------------------------------------------ | ---------------- | -------- | ------------------------------------------------------------ | -------- |
+| LlamaRec | [Yue, Z., Rabhi, S., Moreira, G.D.S.P., Wang, D. and Oldridge, E., 2023. LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking](https://arxiv.org/abs/2311.02089) | arxiv | 2023 | [Python](https://github.com/Yueeeeeeee/LlamaRec) | Llama-2 |
 | CLLM4Rec | [Zhu, Y., Wu, L., Guo, Q., Hong, L., & Li, J. (2023). Collaborative Large Language Model for Recommender Systems. arXiv preprint arXiv:2311.01343.](https://arxiv.org/abs/2311.01343) | arxiv | 2023 | [Python](https://github.com/yaochenzhu/llm4rec) | GPT2 |
 | TransRec | [Lin X, Wang W, Li Y, et al. A Multi-facet Paradigm to Bridge Large Language Model and Recommendation[J]. arXiv preprint arXiv:2310.06491, 2023.](https://arxiv.org/abs/2310.06491) | arxiv | 2023 | N/A | BART-large and LLaMA-7B |
 | RecSysLLM | [Chu, Z., Hao, H., Ouyang, X., Wang, S., Wang, Y., Shen, Y., ... & Li, S. (2023). Leveraging Large Language Models for Pre-trained Recommender Systems. arXiv preprint arXiv:2308.10837.](https://arxiv.org/abs/2308.10837) | arxiv | 2023 | N/A |GLM-10B|
