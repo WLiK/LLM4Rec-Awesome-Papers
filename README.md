@@ -70,6 +70,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 > |    N/A   | [Sileo, D., Vossen, W., & Raymaekers, R. (2022, April). Zero-Shot Recommendation as Language Modeling. In *Advances in Information Retrieval: 44th European Conference on IR Research, ECIR 2022.*.](https://arxiv.org/pdf/2112.04184) | ECIR      | 2022     | [Python](https://colab.research.google.com/drive/1f1mlZ-FGaLGdo5rPzxf3vemKllbh2esT?usp=sharing) | GPT-2                 |
 > | UniCRS   | [Wang, X., Zhou, K., Wen, J. R., & Zhao, W. X. (2022, August). Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning. In *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (pp. 1929-1937).](https://arxiv.org/pdf/2206.09363) | KDD       | 2022     | [Python](https://github.com/RUCAIBox/UniCRS)                 | GPT-2/ DialoGPT /BART |
 > | LLMRec   |  [Wei Wei, Xubin Ren, Jiabin Tang, Qinyong Wang, Lixin Su, Suqi Cheng, Junfeng Wang, Dawei Yin, Chao Huang. arXiv preprint arXiv:2311.00423, 2023.](https://arxiv.org/pdf/2311.00423.pdf) | WSDM | 2024     | [Python](https://github.com/HKUDS/LLMRec)                 | ChatGPT |
+> | K-LaMP   |  [Jinheon Baek, Nirupama Chandrasekaran, Silviu Cucerzan, Allen herring, Sujay Kumar Jauhar. *arXiv preprint arXiv:2311.06318, 2023*.](https://arxiv.org/pdf/2311.06318.pdf) | arXiv | 2023     | N/A                 | GPT-4 |
 
 
 
