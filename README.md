@@ -28,6 +28,7 @@ If our work has been of assistance to you, please feel free to cite our survey. 
   - [No Tuning](#No-Tuning)
   - [Supervised Fine-Tuning](#Supervised-Fine-Tuning)
   - [Related Survey](#Related-Survey)
+  - [Related Tutorial](#Related-Tutorial)
   - [Common Datasets](#Common-Datasets)
 - [Single card (RTX 3090) debuggable generative language models that support Chinese corpus](#Single-card-(RTX-3090)-debuggable-generative-language-models-that-support-Chinese-corpus)
 
@@ -52,6 +53,9 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
  | LLMRG  | [Enhancing Recommender Systems with Large Language Model Reasoning Graphs](https://arxiv.org/abs/2308.10835) | arxiv | 2023 | N/A | GPT-3.5/GPT4|
  | RAH | [RAH! RecSys-Assistant-Human: A Human-Central Recommendation Framework with Large Language Models](https://arxiv.org/abs/2308.09904) | arxiv | 2023 | N/A | GPT4|
  | LLM-Rec | [LLM-Rec: Personalized Recommendation via Prompting Large Language Models](https://arxiv.org/pdf/2307.15780.pdf) | arxiv | 2023 | N/A | GPT-3 |
+ | N/A| [Beyond Labels: Leveraging Deep Learning and LLMs for Content Metadata](https://dl.acm.org/doi/10.1145/3604915.3608883) | RecSys | 2023 | N/A | GPT4 |
+ | N/A| [Retrieval-augmented Recommender System: Enhancing Recommender Systems with Large Language Models](https://dl.acm.org/doi/10.1145/3604915.3608889) | RecSys | 2023 | N/A | ChatGPT |
+ | N/A| [LLM Based Generation of Item-Description for Recommendation System](https://dl.acm.org/doi/10.1145/3604915.3610647) | RecSys | 2023 | N/A | Alpaca |
  | N/A | [Large Language Models are Competitive Near Cold-start Recommenders for Language-and Item-based Preferences](https://arxiv.org/abs/2307.14225) | RecSys | 2023 | N/A | PaLM |
  | MINT | [Large Language Model Augmented Narrative Driven Recommendations](https://arxiv.org/abs/2306.02250) | Recsys | 2023 | N/A | 175B InstructGPT |
  | KAR | [Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models](https://arxiv.org/abs/2306.10933) | arxiv | 2023| [Python](https://gitee.com/mindspore/models/tree/master/research/recommend/KAR)| ChatGLM|
@@ -81,10 +85,15 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
 | **Name** | **Paper**                                                    | **Venue**        | **Year** | **Code**                                                     | LLM      |
 | -------- | ------------------------------------------------------------ | ---------------- | -------- | ------------------------------------------------------------ | -------- |
+| LLaRA | [LLaRA: Aligning Large Language Models with Sequential Recommenders](https://arxiv.org/abs/2312.02443) | arxiv | 2023 | [Python](https://github.com/ljy0ustc/LLaRA) | Llama-2 |
+| E4SRec | [E4SRec: An Elegant Effective Efficient Extensible Solution of Large Language Models for Sequential Recommendation](https://arxiv.org/abs/2312.02443) | arxiv | 2023 | [Python](https://github.com/HestiaSky/E4SRec/) | Llama-2 |
 | LlamaRec | [LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking](https://arxiv.org/abs/2311.02089) | arxiv | 2023 | [Python](https://github.com/Yueeeeeeee/LlamaRec) | Llama-2 |
 | CLLM4Rec | [Collaborative Large Language Model for Recommender Systems](https://arxiv.org/abs/2311.01343) | arxiv | 2023 | [Python](https://github.com/yaochenzhu/llm4rec) | GPT2 |
 | TransRec | [A Multi-facet Paradigm to Bridge Large Language Model and Recommendation](https://arxiv.org/abs/2310.06491) | arxiv | 2023 | N/A | BART-large and LLaMA-7B |
+ | RecMind| [RecMind: Large Language Model Powered Agent For Recommendation](https://arxiv.org/abs/2308.14296) | arXiv | 2023 | N/A | ChatGPT,P5 |
 | RecSysLLM | [Leveraging Large Language Models for Pre-trained Recommender Systems](https://arxiv.org/abs/2308.10837) | arxiv | 2023 | N/A |GLM-10B|
+ | N/A| [Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM](https://dl.acm.org/doi/fullHtml/10.1145/3604915.3608874) | RecSys | 2023 | N/A | ChatGLM-6B,P5 |
+ | N/A| [Prompt Distillation for Efficient LLM-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3583780.3615017) | RecSys | 2023 | N/A | T5,P5 |
 | BIGRec |  [A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems](https://arxiv.org/abs/2308.08434) | arxiv | 2023 | [Python](https://github.com/SAI990323/Grounding4Rec) |  LLaMA|
 | LLMCRS |  [A Large Language Model Enhanced Conversational Recommender System](https://arxiv.org/abs/2308.06212) | arxiv | 2023 | N/A |  Flan-T5/LLaMA|
 | GLRec   |  [Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations](https://arxiv.org/abs/2307.05722) | arxiv | 2023 | N/A |  BELLE|
@@ -92,6 +101,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | Amazon-M2 |  [Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation](https://arxiv.org/pdf/2307.09688.pdf)| arxiv | 2023 | [Project](https://kddcup23.github.io/) |  mT5|
 | GenRec   |  [GenRec: Large Language Model for Generative Recommendation](https://arxiv.org/pdf/2307.00457.pdf)| arxiv | 2023 | [Python](https://github.com/rutgerswiselab/GenRec) |  LLaMA|
 | RecLLM | [Leveraging Large Language Models in Conversational Recommender Systems](https://arxiv.org/pdf/2305.07961) | arxiv | 2023 | N/A | LaMDA(video) |
+ | ONCE| [ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models](https://arxiv.org/abs/2305.06566) | arXiv | 2023 | [Python](https://github.com/Jyonn/ONCE) | ChatGPT,Llama |
 | DPLLM | [Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models](https://arxiv.org/abs/2305.05973) | arxiv | 2023 | N/A | T5 |
 | PBNR   |  [PBNR: Prompt-based News Recommender System](https://arxiv.org/abs/2304.07862) | arxiv | 2023 | N/A |  T5|
 |  GPTRec |  [Generative Sequential Recommendation with GPTRec](https://arxiv.org/abs/2306.11114) | Gen-IR@SIGIR | 2023 |  N/A | GPT-2 |
@@ -114,8 +124,6 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | PEPLER   | [Personalized prompt learning for explainable recommendation](https://arxiv.org/pdf/2202.07371) | TOIS             | 2023     | [Python](https://github.com/lileipisces/PEPLER)              | GPT-2    |
 |    N/A   | [Language models as recommender systems: Evaluations and limitations](https://openreview.net/pdf?id=hFx3fY7-m9b) | NeurIPS workshop | 2021     | N/A                                                           | BERT/GPT-2    |
 
-
-
 ### Related Survey
 
 | **Paper**                                                    | **Venue** | **Year** |
@@ -130,6 +138,11 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | [How Can Recommender Systems Benefit from Large Language Models: A Survey](https://arxiv.org/abs/2306.05817)| arxiv| 2023 |
 | [Pre-train, prompt and recommendation: A comprehensive survey of language modelling paradigm adaptations in recommender systems](https://arxiv.org/pdf/2302.03735) | arxiv     | 2023     |
 
+### Related Tuorial
+| **Name** | **Venue** | **Year** |
+| ------------------------------------------------------------ | --------- | -------- |
+| [Large Language Models for Recommendation: Progresses and Future Directions](https://dl.acm.org/doi/abs/10.1145/3624918.3629550) | SIGIR-AP | 2023|
+| [Tutorial on Large Language Models for Recommendation](https://dl.acm.org/doi/10.1145/3604915.3609494)| RecSys|2023|
 
 ### Common Datasets
 
