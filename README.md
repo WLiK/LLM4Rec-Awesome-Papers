@@ -138,7 +138,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | [How Can Recommender Systems Benefit from Large Language Models: A Survey](https://arxiv.org/abs/2306.05817)| arxiv| 2023 |
 | [Pre-train, prompt and recommendation: A comprehensive survey of language modelling paradigm adaptations in recommender systems](https://arxiv.org/pdf/2302.03735) | arxiv     | 2023     |
 
-### Related Tuorial
+### Related Tutorial
 | **Name** | **Venue** | **Year** |
 | ------------------------------------------------------------ | --------- | -------- |
 | [Large Language Models for Recommendation: Progresses and Future Directions](https://dl.acm.org/doi/abs/10.1145/3624918.3629550) | SIGIR-AP | 2023|
