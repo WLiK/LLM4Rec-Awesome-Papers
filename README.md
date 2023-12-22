@@ -97,7 +97,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
  | N/A| [Prompt Distillation for Efficient LLM-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3583780.3615017) | RecSys | 2023 | N/A | T5,P5 |
 | BIGRec |  [A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems](https://arxiv.org/abs/2308.08434) | arxiv | 2023 | [Python](https://github.com/SAI990323/Grounding4Rec) |  LLaMA|
 | LLMCRS |  [A Large Language Model Enhanced Conversational Recommender System](https://arxiv.org/abs/2308.06212) | arxiv | 2023 | N/A |  Flan-T5/LLaMA|
-| GLRec   |  [Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations](https://arxiv.org/abs/2307.05722) | arxiv | 2023 | N/A |  BELLE|
+| GLRec   |  [Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations](https://arxiv.org/abs/2307.05722) | arxiv | 2023 | [Python](https://github.com/WLiK/GLRec) |  BELLE|
 | GIRL   |  [Generative Job Recommendations with Large Language Model](https://arxiv.org/abs/2307.02157) | arxiv | 2023 | N/A |  BELLE|
 | Amazon-M2 |  [Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation](https://arxiv.org/pdf/2307.09688.pdf)| arxiv | 2023 | [Project](https://kddcup23.github.io/) |  mT5|
 | GenRec   |  [GenRec: Large Language Model for Generative Recommendation](https://arxiv.org/pdf/2307.00457.pdf)| arxiv | 2023 | [Python](https://github.com/rutgerswiselab/GenRec) |  LLaMA|
