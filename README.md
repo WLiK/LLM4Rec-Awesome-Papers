@@ -42,8 +42,8 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
  | **Name** | **Paper**                                                    | **Venue** | **Year** | **Code**                                               |      LLM                   |
  | -------- | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ | --------------------- |
  | LLM4Vis | [LLM4Vis: Explainable Visualization Recommendation using ChatGPT](https://arxiv.org/abs/2310.07652) | EMNLP | 2023 | [Python](https://github.com/demoleiwang/LLM4Vis) | GPT |
- | LLMRec | [LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://arxiv.org/abs/2311.00423) | WSDM | 2023 | N/A | GPT |
- |RLMRec | [Representation Learning with Large Language Models for Recommendation](https://arxiv.org/abs/2310.15950) | arXiv | 2023 | [Python](https://github.com/HKUDS/RLMRec) | GPT-3.5 |
+ | LLMRec | [LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://arxiv.org/abs/2311.00423) | WSDM | 2024 | [Python](https://github.com/HKUDS/LLMRec) | GPT |
+ |RLMRec | [Representation Learning with Large Language Models for Recommendation](https://arxiv.org/abs/2310.15950) | WWW | 2024 | [Python](https://github.com/HKUDS/RLMRec) | GPT-3.5 |
  |KP4SR | [Knowledge Prompt-tuning for Sequential Recommendation](https://dl.acm.org/doi/abs/10.1145/3581783.3612252) | ACM | 2023 | N/A | GPT-3.5 |
  |RecInterpreter | [Large Language Model Can Interpret Latent Space of Sequential Recommender](https://arxiv.org/abs/2310.20487) | arXiv | 2023 | [Python](https://github.com/YangZhengyi98/RecInterpreter) | LLaMA-7b |
  | N/A | [Large Language Models as Zero-Shot Conversational Recommenders](https://arxiv.org/abs/2308.10053) | CIKM | 2023 | [Python](https://github.com/aaronheee/llms-as-zero-shot-conversational-recsys) | GPT-3.5-turbo ,GPT-4,BAIZE,Vicuna |
