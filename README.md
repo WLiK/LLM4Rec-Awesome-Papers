@@ -86,7 +86,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
 | **Name** | **Paper**                                                    | **Venue**        | **Year** | **Code**                                                     | LLM      |
 | -------- | ------------------------------------------------------------ | ---------------- | -------- | ------------------------------------------------------------ | -------- |
-| LLaRA | [LLaRA: Aligning Large Language Models with Sequential Recommenders](https://arxiv.org/abs/2312.02443) | arxiv | 2023 | [Python](https://github.com/ljy0ustc/LLaRA) | Llama-2 |
+| LLaRA | [LLaRA: Aligning Large Language Models with Sequential Recommenders](https://arxiv.org/abs/2312.02445) | arxiv | 2023 | [Python](https://github.com/ljy0ustc/LLaRA) | Llama-2 |
 | E4SRec | [E4SRec: An Elegant Effective Efficient Extensible Solution of Large Language Models for Sequential Recommendation](https://arxiv.org/abs/2312.02443) | arxiv | 2023 | [Python](https://github.com/HestiaSky/E4SRec/) | Llama-2 |
 | LlamaRec | [LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking](https://arxiv.org/abs/2311.02089) | arxiv | 2023 | [Python](https://github.com/Yueeeeeeee/LlamaRec) | Llama-2 |
 | CLLM4Rec | [Collaborative Large Language Model for Recommender Systems](https://arxiv.org/abs/2311.01343) | arxiv | 2023 | [Python](https://github.com/yaochenzhu/llm4rec) | GPT2 |
