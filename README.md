@@ -131,7 +131,6 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | ------------------------------------------------------------ | --------- | -------- |
 | [Large Language Models for Generative Recommendation: A Survey and Visionary Discussions](https://arxiv.org/abs/2309.01157) | arxiv | 2023 |
 | [Robust Recommender System: A Survey and Future Directions](https://arxiv.org/abs/2309.02057) | arxiv | 2023 |
-| [Large Language Models for Generative Recommendation: A Survey and Visionary Discussions](https://arxiv.org/abs/2309.01157) | arxiv | 2023 |
 | [A Survey on Multi-Behavior Sequential Recommendation](https://arxiv.org/abs/2308.15701) | arxiv | 2023 |
 | [When large language models meet personalization: Perspectives of challenges and opportunities](https://arxiv.org/abs/2307.16376) | arxiv | 2023 |
 | [Recommender systems in the era of large language models (llms)](https://arxiv.org/abs/2307.02046) | arxiv | 2023 |
