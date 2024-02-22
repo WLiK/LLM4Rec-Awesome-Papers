@@ -43,7 +43,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
  | **Name** | **Paper**                                                    | **Venue** | **Year** | **Code**                                               |      LLM                   |
  | -------- | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ | --------------------- |
-| N/A | [Large Language Models as Data Augmenters for Cold-Start Item Recommendation](https://arxiv.org/pdf/2402.11724.pdf) | arXiv | 2024 | N/A | PaLM |
+ | N/A | [Large Language Models as Data Augmenters for Cold-Start Item Recommendation](https://arxiv.org/pdf/2402.11724.pdf) | arXiv | 2024 | N/A | PaLM |
 | SPAR | [SPAR: Personalized Content-Based Recommendation via Long Engagement Attention](https://arxiv.org/pdf/2402.10555.pdf) | arXiv | 2024 | N/A | BERT |
 | Fed4Rec | [LLM-based Federated Recommendation](https://arxiv.org/pdf/2402.09959.pdf) | arXiv | 2024 | N/A | LLaMA |
 | LLM4REC | [LLM-Enhanced User-Item Interactions: Leveraging Edge Information for Optimized Recommendations](https://arxiv.org/pdf/2402.09617.pdf) | arXiv | 2024 | [Python](https://github.com/anord-wang/LLM4REC.git) | GPT2 |
@@ -53,8 +53,9 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | Rec-GPT4V | [Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models](https://arxiv.org/pdf/2402.08670.pdf) | arXiv | 2024 | N/A | GPT4-V, LLaVA2 |
 | LLama4Rec | [Integrating Large Language Models into Recommendation via Mutual Augmentation and Adaptive Aggregation](https://arxiv.org/pdf/2401.13870.pdf) | arXiv | 2024 | N/A | LLaMA |
 | N/A | [Enhancing Recommendation Diversity by Re-ranking with Large Language  Models](https://arxiv.org/pdf/2401.11506.pdf) | arXiv | 2024 | N/A | ChatGPT, LLaMA2 |
- | LLMRec | [LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://arxiv.org/abs/2311.00423) | WSDM | 2023 | N/A | GPT |
- |RLMRec | [Representation Learning with Large Language Models for Recommendation](https://arxiv.org/abs/2310.15950) | arXiv | 2023 | [Python](https://github.com/HKUDS/RLMRec) | GPT-3.5 |
+ | LLM4Vis | [LLM4Vis: Explainable Visualization Recommendation using ChatGPT](https://arxiv.org/abs/2310.07652) | EMNLP | 2023 | [Python](https://github.com/demoleiwang/LLM4Vis) | GPT |
+ | LLMRec | [LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://arxiv.org/abs/2311.00423) | WSDM | 2024 | [Python](https://github.com/HKUDS/LLMRec) | GPT |
+ |RLMRec | [Representation Learning with Large Language Models for Recommendation](https://arxiv.org/abs/2310.15950) | WWW | 2024 | [Python](https://github.com/HKUDS/RLMRec) | GPT-3.5 |
  |KP4SR | [Knowledge Prompt-tuning for Sequential Recommendation](https://dl.acm.org/doi/abs/10.1145/3581783.3612252) | ACM | 2023 | N/A | GPT-3.5 |
  |RecInterpreter | [Large Language Model Can Interpret Latent Space of Sequential Recommender](https://arxiv.org/abs/2310.20487) | arXiv | 2023 | [Python](https://github.com/YangZhengyi98/RecInterpreter) | LLaMA-7b |
  | N/A | [Large Language Models as Zero-Shot Conversational Recommenders](https://arxiv.org/abs/2308.10053) | CIKM | 2023 | [Python](https://github.com/aaronheee/llms-as-zero-shot-conversational-recsys) | GPT-3.5-turbo ,GPT-4,BAIZE,Vicuna |
@@ -97,7 +98,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
 | **Name** | **Paper**                                                    | **Venue**        | **Year** | **Code**                                                     | LLM      |
 | -------- | ------------------------------------------------------------ | ---------------- | -------- | ------------------------------------------------------------ | -------- |
-| LLaRA | [LLaRA: Aligning Large Language Models with Sequential Recommenders](https://arxiv.org/abs/2312.02443) | arxiv | 2023 | [Python](https://github.com/ljy0ustc/LLaRA) | Llama-2 |
+| LLaRA | [LLaRA: Aligning Large Language Models with Sequential Recommenders](https://arxiv.org/abs/2312.02445) | arxiv | 2023 | [Python](https://github.com/ljy0ustc/LLaRA) | Llama-2 |
 | E4SRec | [E4SRec: An Elegant Effective Efficient Extensible Solution of Large Language Models for Sequential Recommendation](https://arxiv.org/abs/2312.02443) | arxiv | 2023 | [Python](https://github.com/HestiaSky/E4SRec/) | Llama-2 |
 | LlamaRec | [LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking](https://arxiv.org/abs/2311.02089) | arxiv | 2023 | [Python](https://github.com/Yueeeeeeee/LlamaRec) | Llama-2 |
 | CLLM4Rec | [Collaborative Large Language Model for Recommender Systems](https://arxiv.org/abs/2311.01343) | arxiv | 2023 | [Python](https://github.com/yaochenzhu/llm4rec) | GPT2 |
@@ -108,7 +109,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
  | N/A| [Prompt Distillation for Efficient LLM-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3583780.3615017) | RecSys | 2023 | N/A | T5,P5 |
 | BIGRec |  [A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems](https://arxiv.org/abs/2308.08434) | arxiv | 2023 | [Python](https://github.com/SAI990323/Grounding4Rec) |  LLaMA|
 | LLMCRS |  [A Large Language Model Enhanced Conversational Recommender System](https://arxiv.org/abs/2308.06212) | arxiv | 2023 | N/A |  Flan-T5/LLaMA|
-| GLRec   |  [Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations](https://arxiv.org/abs/2307.05722) | arxiv | 2023 | N/A |  BELLE|
+| GLRec   |  [Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations](https://arxiv.org/abs/2307.05722) | arxiv | 2023 | [Python](https://github.com/WLiK/GLRec) |  BELLE|
 | GIRL   |  [Generative Job Recommendations with Large Language Model](https://arxiv.org/abs/2307.02157) | arxiv | 2023 | N/A |  BELLE|
 | Amazon-M2 |  [Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation](https://arxiv.org/pdf/2307.09688.pdf)| arxiv | 2023 | [Project](https://kddcup23.github.io/) |  mT5|
 | GenRec   |  [GenRec: Large Language Model for Generative Recommendation](https://arxiv.org/pdf/2307.00457.pdf)| arxiv | 2023 | [Python](https://github.com/rutgerswiselab/GenRec) |  LLaMA|
@@ -142,7 +143,6 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | ------------------------------------------------------------ | --------- | -------- |
 | [Large Language Models for Generative Recommendation: A Survey and Visionary Discussions](https://arxiv.org/abs/2309.01157) | arxiv | 2023 |
 | [Robust Recommender System: A Survey and Future Directions](https://arxiv.org/abs/2309.02057) | arxiv | 2023 |
-| [Large Language Models for Generative Recommendation: A Survey and Visionary Discussions](https://arxiv.org/abs/2309.01157) | arxiv | 2023 |
 | [A Survey on Multi-Behavior Sequential Recommendation](https://arxiv.org/abs/2308.15701) | arxiv | 2023 |
 | [When large language models meet personalization: Perspectives of challenges and opportunities](https://arxiv.org/abs/2307.16376) | arxiv | 2023 |
 | [Recommender systems in the era of large language models (llms)](https://arxiv.org/abs/2307.02046) | arxiv | 2023 |
@@ -169,15 +169,18 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | MIND           | News          | General       | MIND contains about 160k English news articles and more than 15 million impression logs generated by 1 million users. Every news contains textual content including title, abstract, body, category, and entities. | [link](https://msnews.github.io/assets/doc/ACL2020_MIND.pdf) |
 | U-NEED         | Commerce      | Conversation Rec | U-NEED consists of 7,698 fine-grained annotated pre-sales dialogues, 333,879 user behaviors, and 332,148 product knowledge tuples. | [link](https://github.com/LeeeeoLiu/U-NEED)          |
 | PixelRec | Short Video | Seq Rec/CF Rec | PixelRec is a large dataset of cover images collected from a short video recommender system, comprising approximately 200 million user image interactions, 30 million users, and 400,000 video cover images. The texts and other aggregated attributes of videos are also included. | [link](https://github.com/westlake-repl/PixelRec) |
+| KuaiSAR | Video | Search and Rec | KuaiSAR contains genuine search and recommendation behaviors of 25,877 users, 6,890,707 items, 453,667 queries, and 19,664,885 actions within a span of 19 days on the Kuaishou app | [link](https://kuaisar.github.io) |
+| Tenrec | Video, Article | General | Tenrec is a large-scale benchmark dataset for recommendation systems. It contains around 5 million users and 140 million interactions. | [link](https://tenrec0.github.io/) |
 
 
 
 ### Single card (RTX 3090) debuggable generative language models that support Chinese corpus
 
-Some open-source and effective projects can be adpated to the recommendation systems based on Chinese textual data. Especially for the individual researchers !
+Some open-source and effective projects can be adapted to the recommendation systems based on Chinese textual data. Especially for the individual researchers !
 
 | Project                                                      | Year |
 | ------------------------------------------------------------ | ---- |
+| [Qwen-7B](https://github.com/QwenLM/Qwen) | 2023 |
 | [baichuan-7B](https://huggingface.co/baichuan-inc/baichuan-7B) | 2023 |
 | [YuLan-chat](https://github.com/RUC-GSAI/YuLan-Chat)         | 2023 |
 | [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | 2023 |
