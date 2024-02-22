@@ -24,13 +24,15 @@ If our work has been of assistance to you, please feel free to cite our survey. 
 
 # Table of Contents
 
-- [The papers and related projects](#The-papers-and-related-projects)
-  - [No Tuning](#No-Tuning)
-  - [Supervised Fine-Tuning](#Supervised-Fine-Tuning)
-  - [Related Survey](#Related-Survey)
-  - [Related Tutorial](#Related-Tutorial)
-  - [Common Datasets](#Common-Datasets)
-- [Single card (RTX 3090) debuggable generative language models that support Chinese corpus](#Single-card-(RTX-3090)-debuggable-generative-language-models-that-support-Chinese-corpus)
+- [LLM for Recommendation Systems](#llm-for-recommendation-systems)
+- [Table of Contents](#table-of-contents)
+  - [The papers and related projects](#the-papers-and-related-projects)
+    - [No Tuning](#no-tuning)
+    - [Supervised Fine-Tuning](#supervised-fine-tuning)
+    - [Related Survey](#related-survey)
+    - [Related Tutorial](#related-tutorial)
+    - [Common Datasets](#common-datasets)
+    - [Single card (RTX 3090) debuggable generative language models that support Chinese corpus](#single-card-rtx-3090-debuggable-generative-language-models-that-support-chinese-corpus)
 
 
 ## The papers and related projects
@@ -41,6 +43,16 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
  | **Name** | **Paper**                                                    | **Venue** | **Year** | **Code**                                               |      LLM                   |
  | -------- | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ | --------------------- |
+| N/A | [Large Language Models as Data Augmenters for Cold-Start Item Recommendation](https://arxiv.org/pdf/2402.11724.pdf) | arXiv | 2024 | N/A | PaLM |
+| SPAR | [SPAR: Personalized Content-Based Recommendation via Long Engagement Attention](https://arxiv.org/pdf/2402.10555.pdf) | arXiv | 2024 | N/A | BERT |
+| Fed4Rec | [LLM-based Federated Recommendation](https://arxiv.org/pdf/2402.09959.pdf) | arXiv | 2024 | N/A | LLaMA |
+| LLM4REC | [LLM-Enhanced User-Item Interactions: Leveraging Edge Information for Optimized Recommendations](https://arxiv.org/pdf/2402.09617.pdf) | arXiv | 2024 | https://github.com/anord-wang/LLM4REC.git | GPT2 |
+|  Lite-LLM4Rec | [Rethinking Large Language Model Architectures for Sequential Recommendations](https://arxiv.org/pdf/2402.09543.pdf) | arXiv | 2024 | N/A | T5 |
+| LLM-InS | [Large Language Model Interaction Simulator for Cold-Start Item Recommendation](https://arxiv.org/pdf/2402.09176.pdf) | arXiv | 2024 | N/A | LLaMA2 |
+| N/A | [Large Language Model with Graph Convolution for Recommendation](https://arxiv.org/pdf/2402.08859.pdf) | arXiv | 2024 | N/A | GPT4,LLaMA2,ChatGLM |
+| Rec-GPT4V | [Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models](https://arxiv.org/pdf/2402.08670.pdf) | arXiv | 2024 | N/A | GPT4-V, LLaVA2 |
+| LLama4Rec | [Integrating Large Language Models into Recommendation via Mutual Augmentation and Adaptive Aggregation](https://arxiv.org/pdf/2401.13870.pdf) | arXiv | 2024 | N/A | LLaMA |
+| N/A | [Enhancing Recommendation Diversity by Re-ranking with Large Language  Models](https://arxiv.org/pdf/2401.11506.pdf) | arXiv | 2024 | N/A | ChatGPT, LLaMA2 |
  | LLMRec | [LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://arxiv.org/abs/2311.00423) | WSDM | 2023 | N/A | GPT |
  |RLMRec | [Representation Learning with Large Language Models for Recommendation](https://arxiv.org/abs/2310.15950) | arXiv | 2023 | [Python](https://github.com/HKUDS/RLMRec) | GPT-3.5 |
  |KP4SR | [Knowledge Prompt-tuning for Sequential Recommendation](https://dl.acm.org/doi/abs/10.1145/3581783.3612252) | ACM | 2023 | N/A | GPT-3.5 |
