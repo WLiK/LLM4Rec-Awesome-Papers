@@ -44,15 +44,9 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
  | **Name** | **Paper**                                                    | **Venue** | **Year** | **Code**                                               |      LLM                   |
  | -------- | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ | --------------------- |
  | N/A | [Large Language Models as Data Augmenters for Cold-Start Item Recommendation](https://arxiv.org/pdf/2402.11724.pdf) | arXiv | 2024 | N/A | PaLM |
-| SPAR | [SPAR: Personalized Content-Based Recommendation via Long Engagement Attention](https://arxiv.org/pdf/2402.10555.pdf) | arXiv | 2024 | N/A | BERT |
-| Fed4Rec | [LLM-based Federated Recommendation](https://arxiv.org/pdf/2402.09959.pdf) | arXiv | 2024 | N/A | LLaMA |
 | LLM4REC | [LLM-Enhanced User-Item Interactions: Leveraging Edge Information for Optimized Recommendations](https://arxiv.org/pdf/2402.09617.pdf) | arXiv | 2024 | [Python](https://github.com/anord-wang/LLM4REC.git) | GPT2 |
 |  Lite-LLM4Rec | [Rethinking Large Language Model Architectures for Sequential Recommendations](https://arxiv.org/pdf/2402.09543.pdf) | arXiv | 2024 | N/A | T5 |
-| LLM-InS | [Large Language Model Interaction Simulator for Cold-Start Item Recommendation](https://arxiv.org/pdf/2402.09176.pdf) | arXiv | 2024 | N/A | LLaMA2 |
-| N/A | [Large Language Model with Graph Convolution for Recommendation](https://arxiv.org/pdf/2402.08859.pdf) | arXiv | 2024 | N/A | GPT4,LLaMA2,ChatGLM |
 | Rec-GPT4V | [Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models](https://arxiv.org/pdf/2402.08670.pdf) | arXiv | 2024 | N/A | GPT4-V, LLaVA2 |
-| LLama4Rec | [Integrating Large Language Models into Recommendation via Mutual Augmentation and Adaptive Aggregation](https://arxiv.org/pdf/2401.13870.pdf) | arXiv | 2024 | N/A | LLaMA |
-| N/A | [Enhancing Recommendation Diversity by Re-ranking with Large Language  Models](https://arxiv.org/pdf/2401.11506.pdf) | arXiv | 2024 | N/A | ChatGPT, LLaMA2 |
  | LLM4Vis | [LLM4Vis: Explainable Visualization Recommendation using ChatGPT](https://arxiv.org/abs/2310.07652) | EMNLP | 2023 | [Python](https://github.com/demoleiwang/LLM4Vis) | GPT |
  | LLMRec | [LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://arxiv.org/abs/2311.00423) | WSDM | 2024 | [Python](https://github.com/HKUDS/LLMRec) | GPT |
  |RLMRec | [Representation Learning with Large Language Models for Recommendation](https://arxiv.org/abs/2310.15950) | WWW | 2024 | [Python](https://github.com/HKUDS/RLMRec) | GPT-3.5 |
@@ -98,6 +92,13 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
 | **Name** | **Paper**                                                    | **Venue**        | **Year** | **Code**                                                     | LLM      |
 | -------- | ------------------------------------------------------------ | ---------------- | -------- | ------------------------------------------------------------ | -------- |
+| N/A | [Enhancing Recommendation Diversity by Re-ranking with Large Language  Models](https://arxiv.org/pdf/2401.11506.pdf) | arXiv | 2024 | N/A | ChatGPT, LLaMA2 |
+| LLama4Rec | [Integrating Large Language Models into Recommendation via Mutual Augmentation and Adaptive Aggregation](https://arxiv.org/pdf/2401.13870.pdf) | arXiv | 2024 | N/A | LLaMA |
+| N/A | [Large Language Model with Graph Convolution for Recommendation](https://arxiv.org/pdf/2402.08859.pdf) | arXiv | 2024 | N/A | GPT4,LLaMA2,ChatGLM |
+| LLM-InS | [Large Language Model Interaction Simulator for Cold-Start Item Recommendation](https://arxiv.org/pdf/2402.09176.pdf) | arXiv | 2024 | N/A | LLaMA2 |
+| LLM4REC | [LLM-Enhanced User-Item Interactions: Leveraging Edge Information for Optimized Recommendations](https://arxiv.org/pdf/2402.09617.pdf) | arXiv | 2024 | [Python](https://github.com/anord-wang/LLM4REC.git) | GPT2 |
+| Fed4Rec | [LLM-based Federated Recommendation](https://arxiv.org/pdf/2402.09959.pdf) | arXiv | 2024 | N/A | LLaMA |
+| SPAR | [SPAR: Personalized Content-Based Recommendation via Long Engagement Attention](https://arxiv.org/pdf/2402.10555.pdf) | arXiv | 2024 | N/A | BERT |
 | LLaRA | [LLaRA: Aligning Large Language Models with Sequential Recommenders](https://arxiv.org/abs/2312.02445) | arxiv | 2023 | [Python](https://github.com/ljy0ustc/LLaRA) | Llama-2 |
 | E4SRec | [E4SRec: An Elegant Effective Efficient Extensible Solution of Large Language Models for Sequential Recommendation](https://arxiv.org/abs/2312.02443) | arxiv | 2023 | [Python](https://github.com/HestiaSky/E4SRec/) | Llama-2 |
 | LlamaRec | [LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking](https://arxiv.org/abs/2311.02089) | arxiv | 2023 | [Python](https://github.com/Yueeeeeeee/LlamaRec) | Llama-2 |
