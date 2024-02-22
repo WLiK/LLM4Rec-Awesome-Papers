@@ -46,7 +46,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | N/A | [Large Language Models as Data Augmenters for Cold-Start Item Recommendation](https://arxiv.org/pdf/2402.11724.pdf) | arXiv | 2024 | N/A | PaLM |
 | SPAR | [SPAR: Personalized Content-Based Recommendation via Long Engagement Attention](https://arxiv.org/pdf/2402.10555.pdf) | arXiv | 2024 | N/A | BERT |
 | Fed4Rec | [LLM-based Federated Recommendation](https://arxiv.org/pdf/2402.09959.pdf) | arXiv | 2024 | N/A | LLaMA |
-| LLM4REC | [LLM-Enhanced User-Item Interactions: Leveraging Edge Information for Optimized Recommendations](https://arxiv.org/pdf/2402.09617.pdf) | arXiv | 2024 | https://github.com/anord-wang/LLM4REC.git | GPT2 |
+| LLM4REC | [LLM-Enhanced User-Item Interactions: Leveraging Edge Information for Optimized Recommendations](https://arxiv.org/pdf/2402.09617.pdf) | arXiv | 2024 | [Python](https://github.com/anord-wang/LLM4REC.git) | GPT2 |
 |  Lite-LLM4Rec | [Rethinking Large Language Model Architectures for Sequential Recommendations](https://arxiv.org/pdf/2402.09543.pdf) | arXiv | 2024 | N/A | T5 |
 | LLM-InS | [Large Language Model Interaction Simulator for Cold-Start Item Recommendation](https://arxiv.org/pdf/2402.09176.pdf) | arXiv | 2024 | N/A | LLaMA2 |
 | N/A | [Large Language Model with Graph Convolution for Recommendation](https://arxiv.org/pdf/2402.08859.pdf) | arXiv | 2024 | N/A | GPT4,LLaMA2,ChatGLM |
