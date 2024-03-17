@@ -92,6 +92,10 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
 | **Name** | **Paper**                                                    | **Venue**        | **Year** | **Code**                                                     | LLM      |
 | -------- | ------------------------------------------------------------ | ---------------- | -------- | ------------------------------------------------------------ | -------- |
+| N/A | [Aligning Large Language Models for Controllable Recommendations](https://arxiv.org/abs/2403.05063) | arXiv | 2024 | N/A | llama2 |
+| SLIM | [Can Small Language Models be Good Reasoners for Sequential Recommendation?](https://arxiv.org/abs/2403.04260) | arXiv | 2024 | N/A | ChatGPT,llama2 |
+| GPT-FedRec | [Federated Recommendation via Hybrid Retrieval Augmented Generation](https://arxiv.org/abs/2403.04256) | arXiv | 2024 | N/A | E5 |
+| NoteLLM | [NoteLLM: A Retrievable Large Language Model for Note Recommendation](https://arxiv.org/abs/2403.01744) | WWW | 2024 | N/A | llama2 |
 | N/A | [Enhancing Recommendation Diversity by Re-ranking with Large Language  Models](https://arxiv.org/pdf/2401.11506.pdf) | arXiv | 2024 | N/A | ChatGPT, LLaMA2 |
 | LLama4Rec | [Integrating Large Language Models into Recommendation via Mutual Augmentation and Adaptive Aggregation](https://arxiv.org/pdf/2401.13870.pdf) | arXiv | 2024 | N/A | LLaMA |
 | N/A | [Large Language Model with Graph Convolution for Recommendation](https://arxiv.org/pdf/2402.08859.pdf) | arXiv | 2024 | N/A | GPT4,LLaMA2,ChatGLM |
@@ -172,6 +176,9 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | PixelRec | Short Video | Seq Rec/CF Rec | PixelRec is a large dataset of cover images collected from a short video recommender system, comprising approximately 200 million user image interactions, 30 million users, and 400,000 video cover images. The texts and other aggregated attributes of videos are also included. | [link](https://github.com/westlake-repl/PixelRec) |
 | KuaiSAR | Video | Search and Rec | KuaiSAR contains genuine search and recommendation behaviors of 25,877 users, 6,890,707 items, 453,667 queries, and 19,664,885 actions within a span of 19 days on the Kuaishou app | [link](https://kuaisar.github.io) |
 | Tenrec | Video, Article | General | Tenrec is a large-scale benchmark dataset for recommendation systems. It contains around 5 million users and 140 million interactions. | [link](https://tenrec0.github.io/) |
+| NineRec | Video, Article | General | NineRec is a TransRec dataset suite that includes a large-scale source domain recommendation dataset and nine diverse target domain recommendation datasets. Each item in NineRec is represented by a text description and a high-resolution cover image. | [link](https://github.com/westlake-repl/NineRec) |
+| MicroLens | Video | General | MicroLens is a very large micro-video recommendation dataset containing one billion user-item interactions, 34 million users, and one million micro-videos. It includes various modality information about videos and serves as a benchmark for content-driven micro-video recommendation research.| [link](https://github.com/westlake-repl/MicroLens) |
+
 
 
 
