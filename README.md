@@ -92,6 +92,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
 | **Name** | **Paper**                                                    | **Venue**        | **Year** | **Code**                                                     | LLM      |
 | -------- | ------------------------------------------------------------ | ---------------- | -------- | ------------------------------------------------------------ | -------- |
+| CALRec | [CALRec: Contrastive Alignment of Generative LLMs for Sequential Recommendation](https://arxiv.org/abs/2405.02429) | arXiv | 2024 | N/A | PaLM-2 XXS |
 | N/A | [Aligning Large Language Models for Controllable Recommendations](https://arxiv.org/abs/2403.05063) | arXiv | 2024 | N/A | llama2 |
 | SLIM | [Can Small Language Models be Good Reasoners for Sequential Recommendation?](https://arxiv.org/abs/2403.04260) | arXiv | 2024 | N/A | ChatGPT,llama2 |
 | GPT-FedRec | [Federated Recommendation via Hybrid Retrieval Augmented Generation](https://arxiv.org/abs/2403.04256) | arXiv | 2024 | N/A | E5 |
