@@ -181,6 +181,8 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | MicroLens | Video | General | MicroLens is a very large micro-video recommendation dataset containing one billion user-item interactions, 34 million users, and one million micro-videos. It includes various modality information about videos and serves as a benchmark for content-driven micro-video recommendation research.| [link](https://github.com/westlake-repl/MicroLens) |
 
 
+This link contains all the various datasets regarding the Recommendation System - https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews
+
 
 
 ### Single card (RTX 3090) debuggable generative language models that support Chinese corpus
