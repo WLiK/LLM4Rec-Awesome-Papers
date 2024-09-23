@@ -92,6 +92,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
 | **Name** | **Paper**                                                    | **Venue**        | **Year** | **Code**                                                     | LLM      |
 | -------- | ------------------------------------------------------------ | ---------------- | -------- | ------------------------------------------------------------ | -------- |
+| HLLM | [HLLM: Enhancing Sequential Recommendations via Hierarchical Large Language Models for Item and User Modeling](https://arxiv.org/abs/2409.12740) | arXiv | 2024 | [Python](https://github.com/bytedance/HLLM) | TinyLlama, Baichuan2-7b |
 | N/A | [Aligning Large Language Models for Controllable Recommendations](https://arxiv.org/abs/2403.05063) | arXiv | 2024 | N/A | llama2 |
 | SLIM | [Can Small Language Models be Good Reasoners for Sequential Recommendation?](https://arxiv.org/abs/2403.04260) | arXiv | 2024 | N/A | ChatGPT,llama2 |
 | GPT-FedRec | [Federated Recommendation via Hybrid Retrieval Augmented Generation](https://arxiv.org/abs/2403.04256) | arXiv | 2024 | N/A | E5 |
