@@ -92,6 +92,8 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
 | **Name** | **Paper**                                                    | **Venue**        | **Year** | **Code**                                                     | LLM      |
 | -------- | ------------------------------------------------------------ | ---------------- | -------- | ------------------------------------------------------------ | -------- |
+| CoLLM | [CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation](https://arxiv.org/abs/2310.19488v2) | TKDE | 2025 | [Python](https://github.com/zyang1580/CoLLM) | llama-7B & Qwen2-1.5 |
+| BinLLM | [Text-like Encoding of Collaborative Information in Large Language Models for Recommendation](https://aclanthology.org/2024.acl-long.497/) | ACL | 2024 | [Python](https://github.com/zyang1580/BinLLM) | llama-7B |
 | N/A | [Aligning Large Language Models for Controllable Recommendations](https://arxiv.org/abs/2403.05063) | arXiv | 2024 | N/A | llama2 |
 | SLIM | [Can Small Language Models be Good Reasoners for Sequential Recommendation?](https://arxiv.org/abs/2403.04260) | arXiv | 2024 | N/A | ChatGPT,llama2 |
 | GPT-FedRec | [Federated Recommendation via Hybrid Retrieval Augmented Generation](https://arxiv.org/abs/2403.04256) | arXiv | 2024 | N/A | E5 |
