@@ -43,6 +43,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
  | **Name** | **Paper**                                                    | **Venue** | **Year** | **Code**                                               |      LLM                   |
  | -------- | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ | --------------------- |
+ | PURE | [LLM-based User Profile Management for Recommender System](https://arxiv.org/pdf/2502.14541.pdf) | arXiv | 2025 | N/A | Llama-3.2-3b |
  | N/A | [Large Language Models as Data Augmenters for Cold-Start Item Recommendation](https://arxiv.org/pdf/2402.11724.pdf) | arXiv | 2024 | N/A | PaLM |
 | LLM4REC | [LLM-Enhanced User-Item Interactions: Leveraging Edge Information for Optimized Recommendations](https://arxiv.org/pdf/2402.09617.pdf) | arXiv | 2024 | [Python](https://github.com/anord-wang/LLM4REC.git) | GPT2 |
 |  Lite-LLM4Rec | [Rethinking Large Language Model Architectures for Sequential Recommendations](https://arxiv.org/pdf/2402.09543.pdf) | arXiv | 2024 | N/A | T5 |
