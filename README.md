@@ -43,6 +43,8 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
  | **Name** | **Paper**                                                    | **Venue** | **Year** | **Code**                                               |      LLM                   |
  | -------- | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ | --------------------- |
+ | SimUSER | [SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation
+]([https://arxiv.org/pdf/2504.12722.pdf](https://arxiv.org/abs/2504.12722)) | ACL | 2025 | N/A | Gpt-4o |
  | N/A | [Large Language Models as Data Augmenters for Cold-Start Item Recommendation](https://arxiv.org/pdf/2402.11724.pdf) | arXiv | 2024 | N/A | PaLM |
 | LLM4REC | [LLM-Enhanced User-Item Interactions: Leveraging Edge Information for Optimized Recommendations](https://arxiv.org/pdf/2402.09617.pdf) | arXiv | 2024 | [Python](https://github.com/anord-wang/LLM4REC.git) | GPT2 |
 |  Lite-LLM4Rec | [Rethinking Large Language Model Architectures for Sequential Recommendations](https://arxiv.org/pdf/2402.09543.pdf) | arXiv | 2024 | N/A | T5 |
