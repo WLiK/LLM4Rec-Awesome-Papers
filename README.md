@@ -92,6 +92,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
 | **Name** | **Paper**                                                    | **Venue**        | **Year** | **Code**                                                     | LLM      |
 | -------- | ------------------------------------------------------------ | ---------------- | -------- | ------------------------------------------------------------ | -------- |
+ | AlignUser | [AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation](https://arxiv.org/pdf/2601.00930](https://arxiv.org/abs/2601.00930)) | Arxiv | 2026 | N/A | Qwen-8 |
 | CoLLM | [CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation](https://arxiv.org/abs/2310.19488v2) | TKDE | 2025 | [Python](https://github.com/zyang1580/CoLLM) | llama-7B & Qwen2-1.5 |
 | BinLLM | [Text-like Encoding of Collaborative Information in Large Language Models for Recommendation](https://aclanthology.org/2024.acl-long.497/) | ACL | 2024 | [Python](https://github.com/zyang1580/BinLLM) | llama-7B |
 | N/A | [Aligning Large Language Models for Controllable Recommendations](https://arxiv.org/abs/2403.05063) | arXiv | 2024 | N/A | llama2 |
