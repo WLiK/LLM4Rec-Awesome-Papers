@@ -84,6 +84,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
  | UniCRS   | [Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning](https://arxiv.org/pdf/2206.09363) | KDD       | 2022     | [Python](https://github.com/RUCAIBox/UniCRS)                 | GPT-2/ DialoGPT /BART |
  | LLMRec   |  [LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://arxiv.org/pdf/2311.00423.pdf) | WSDM | 2024     | [Python](https://github.com/HKUDS/LLMRec)                 | ChatGPT |
  | K-LaMP   |  [K-LaMP: Knowledge-Guided Language Model Pre-training for Sequential Recommendation](https://arxiv.org/pdf/2311.06318.pdf) | arXiv | 2023     | N/A                 | GPT-4 |
+ | RecInter   |  [Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems](https://aclanthology.org/2025.emnlp-main.956.pdf) | EMNLP | 2025 | [Python](https://github.com/jinsong8/RecInter) | Qwen-2.5 / GPT-4o |
 
 
 
