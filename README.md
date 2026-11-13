@@ -43,7 +43,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
  | **Name** | **Paper**                                                    | **Venue** | **Year** | **Code**                                               |      LLM                   |
  | -------- | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ | --------------------- |
- | N/A | [Encoder Language Models for Zero-Shot Recommender Systems: Cross-Domain and Cross-Lingual Evaluation](https://www.mdpi.com/2073-431X/15/9/639) | MDPI Computers | 2026 | N/A | Various Encoders |
+ | N/A | [Encoder Language Models for Zero-Shot Recommender Systems: Cross-Domain and Cross-Lingual Evaluation](https://www.mdpi.com/2073-431X/15/9/639) | MDPI Computers | 2026 | [Python](https://github.com/patmull/language-models-in-embedding-based-recommender-system) [Python](https://github.com/patmull/news-recommender-core/) | Llama3.2, Qwen and many encoder models (e.g. BERT, RoBERTa, etc.) |
  | N/A | [Large Language Models as Data Augmenters for Cold-Start Item Recommendation](https://arxiv.org/pdf/2402.11724.pdf) | arXiv | 2024 | N/A | PaLM |
 | LLM4REC | [LLM-Enhanced User-Item Interactions: Leveraging Edge Information for Optimized Recommendations](https://arxiv.org/pdf/2402.09617.pdf) | arXiv | 2024 | [Python](https://github.com/anord-wang/LLM4REC.git) | GPT2 |
 |  Lite-LLM4Rec | [Rethinking Large Language Model Architectures for Sequential Recommendations](https://arxiv.org/pdf/2402.09543.pdf) | arXiv | 2024 | N/A | T5 |
